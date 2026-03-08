@@ -12,7 +12,7 @@ main:
     # url: /cv/
     url: /files/Resume.pdf
   
-  - title: "Publications"
+    - title: "Publications"
     # url: /publications/
     url: https://scholar.google.com/citations?hl=zh-CN&user=JtGeq6kAAAAJ
 
